@@ -1,7 +1,7 @@
 
-# About the repository
+# 🚥 About the repository
 
-In this repository, I cover some of the useful platforms for machine learning and deep learning including:
+I cover some of the most useful platforms for machine learning and deep learning in this repository, including:
 * Google Colab
 * VScode
 * PyCaret
