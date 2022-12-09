@@ -1,9 +1,10 @@
-Here is the link to my YouTube playlist for Google Colab! https://www.youtube.com/playlist?list=PL2GWo47BFyUOsj5rxrF9s6vRn0HCBEhpW
+Here is the link to my YouTube playlist for PyCaret! https://youtube.com/playlist?list=PL2GWo47BFyUOqCAj_16yeNspfeM0nfA6q
 
 **Topics**: 
-1. Google Colab: JUmpstart!
-2. Google Colab Basics
-3. Google Colab Tricks
+1. PyCaret introduction
+2. PyCaret regression
+3. PyCaret classification
+4. PyCaret timeseries
 
 
 ## 🔗 Links
