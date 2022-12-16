@@ -2,6 +2,7 @@
 # 🚥 About the repository
 
 I cover some of the most useful platforms for machine learning and deep learning in this repository, including:
+* Python Crash Course
 * Google Colab
 * VScode
 * PyCaret
