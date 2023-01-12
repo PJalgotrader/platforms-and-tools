@@ -29,5 +29,8 @@ Pedram is one of the project mentors at the [Analytics Solutions Center](https:/
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/PedramJahangiry.svg?style=social&label=Follow%20%40PedramJahangiry)](https://twitter.com/PedramJahangiry)
 
 
+<img src="images/Jahangirylogo.png" width=150 align="right">
+
+
 
 
