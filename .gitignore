@@ -1,2 +1,7 @@
 
 PyCaret/logs.log
+
+.DS_Store
+logs.log
+catboost_info/
+.ipynb_checkpoints/
