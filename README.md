@@ -8,6 +8,7 @@ Hands-on material for the platforms and tools I use across my machine learning, 
 | [Python_Crash_course_2020](Python_Crash_course_2020) | Python basics, NumPy, pandas, Matplotlib, seaborn, time series, and exploratory data analysis (EDA) | [YouTube playlist](https://www.youtube.com/playlist?list=PL2GWo47BFyUPsqzaOdIdZlAwQmrXkSJxX) |
 | [Google Colab](Google%20Colab) | Google Colab jumpstart notebook | [YouTube playlist](https://www.youtube.com/playlist?list=PL2GWo47BFyUOsj5rxrF9s6vRn0HCBEhpW) |
 | [PyCaret](PyCaret) | Low-code machine learning with PyCaret: regression, classification, time series, and a stock price forecasting example | [YouTube playlist](https://youtube.com/playlist?list=PL2GWo47BFyUOqCAj_16yeNspfeM0nfA6q) |
+| [uv](uv) | Running the course notebooks on your own computer with uv: student quick start, the conda-to-uv cheat sheet, and a ten-second test project. The same folder lives in the Machine Learning, Deep Learning and Deep Forecasting course repositories | |
 | [vibe_coding](vibe_coding) | Slides on coding with AI assistants: Claude Code, Cursor, and VS Code with GitHub Copilot | |
 | [data](data) | Datasets used in the notebooks | |
 
@@ -37,7 +38,7 @@ if "google.colab" in sys.modules:
 
 Run it in a fresh runtime (**Runtime > Disconnect and delete runtime**) before importing PyCaret. No runtime restart is needed afterwards.
 
-**On your own computer**, the ready-made environment (uv or conda, Python 3.13) lives in my Machine Learning course repository. Follow its [setup guide](https://github.com/PJalgotrader/Machine_Learning-USU#setup) once, and these notebooks run in that same environment.
+**On your own computer**, each course repository ([Machine Learning](https://github.com/PJalgotrader/Machine_Learning-USU#setup), [Deep Learning](https://github.com/PJalgotrader/Deep_Learning-USU#how-to-run-the-notebooks), [Deep Forecasting](https://github.com/PJalgotrader/Deep_forecasting-USU#-getting-started)) ships a ready-made Python 3.13 environment that you build with **uv** (recommended) or **conda**, always with the same commands: `uv sync`, then `uv run jupyter lab`. These notebooks run in any of those environments. New to uv? Start with the [uv](uv) folder here: quick start, cheat sheet, ten-second test.
 
 
 # 🚀 About Me
